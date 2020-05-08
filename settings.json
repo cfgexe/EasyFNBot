@@ -1,14 +1,14 @@
 {
-    "platform": "Playstation",
+    "platform": "Xbox",
     "account": {
       "deviceID": "",
       "accountID": "",
       "secret": ""
     },
     "cosmetics": {
-      "skin": "Skull Trooper",
+      "skin": "Ghoul Trooper",
       "backpack": "",
-      "emote": "Floss",
+      "emote": "Flippin Incredible",
       "emoji": "",
       "pickaxe": "",
       "pet": ""
@@ -19,5 +19,5 @@
       "pickaxe": [],
       "pet": []
     },
-    "owners": ["LupusLeaks YT"]
+    "owners": ["ImABot124009”]
   }
